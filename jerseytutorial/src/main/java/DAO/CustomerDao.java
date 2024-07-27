@@ -4,7 +4,7 @@
  */
 package DAO;
 
-import entities.Customer;
+
 import java.util.List;
 /**
  *  
