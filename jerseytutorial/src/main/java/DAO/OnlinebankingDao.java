@@ -4,7 +4,7 @@
  */
 package DAO;
 
-import entities.Onlinebanking;
+
 import java.util.List;
 
 /**
